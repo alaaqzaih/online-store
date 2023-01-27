@@ -1,0 +1,22 @@
+.page-not-found {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+    .wrapper {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .text-title {
+        font-size: 72px;
+        font-family: 'Fuzzy Bubbles', cursive;
+    }
+
+    .text-body {
+        color: gray;
+        font-size: 30px;
+        margin-top: 24px;
+    }
+}

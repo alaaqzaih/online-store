@@ -1,0 +1,13 @@
+.product-categories {
+    .custom-img-overlay {
+        cursor: pointer;
+        font-family: 'Fuzzy Bubbles', cursive;
+        opacity: 0;
+
+        &:hover {
+            opacity: 1;
+        }
+    }
+}
+
+// .custom-img-overlay:hover {}
