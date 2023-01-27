@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# online store application 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## General Info
+front-end: Reactjs, Sass, react-bootstrap
 
 ## Available Scripts
 
